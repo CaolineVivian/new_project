@@ -1,0 +1,25 @@
+*{
+    margin:0;
+    padding:0;
+    
+}
+
+.main{
+    height: 80px;
+    display: flex;
+ flex: 1;
+ justify-content: space-evenly;
+ align-items: center;
+ 
+}
+a{
+    flex: 0.03;
+}
+h1{
+    flex: 0.4;
+}
+.main input{
+    padding: 1em;
+    background: #FFF;
+    width: 8em;
+}
